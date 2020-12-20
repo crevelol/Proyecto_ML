@@ -1,0 +1,21 @@
+.Titulo_Fondo {
+    margin: 0px;
+    padding: 0px;
+    margin-top: 0px;
+    background-color: rgb(153, 5, 5);
+}
+
+.Titulo {
+    color: white;
+    text-align: center;
+    padding: 3rem;
+    background-color: rgb(153, 5, 5);
+}
+
+.Titulo tr {
+    text-align: center;
+}
+
+.Titulo tr td {
+    text-align: center;
+}

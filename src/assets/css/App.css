@@ -1,0 +1,23 @@
+.App {
+    margin: 0px;
+    padding: 0px;
+    margin-top: 0px;
+    background-color: white;
+}
+
+.Buscador {
+    margin: 0 auto;
+    text-align: center;
+    width: 40%;
+    background-color: black;
+    padding: 6% 0;
+}
+
+.Buscador form table tr {
+    margin: 100% 10%;
+}
+
+.Tabla {
+    margin: 0 auto;
+    text-align: center;
+}
